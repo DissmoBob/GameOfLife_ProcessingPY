@@ -1,5 +1,7 @@
 # GameOfLife_ProcessingPY
 Game of Life but with processing on python (66x48 grid but it wraps around)
+You will need to install processing for python
+https://processing.org/download/
 
 Rules of life:
 1. Cells are either alive or dead, represented as white or black respectively.
